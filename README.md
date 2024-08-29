@@ -29,6 +29,9 @@ Dietmate is designed to assist users in maintaining a healthy lifestyle by provi
 - **User-friendly Interface**: Simple and intuitive interface for easy navigation.
 
 ## Installation
+-Jupyter must be installed
+-Python version must be above 3.7
+-properly change dataset according to your requirements
 
 ### Prerequisites
 
@@ -40,5 +43,5 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dietmate.git
+git clone https://github.com/thechiranjeevvyas/dietmate.git
 cd dietmate
